@@ -51,3 +51,6 @@ Actuellement je suis **étudiant** en seconde année à l'[IUT de Blagnac](https
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoMancini&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 (_A noter que la majorité de mes repository de travail sont stockés sous mon IUT et non sur mon compte, d'où cette stat un peu décevante_)
+
+## Projets 🖥️ &nbsp;
+(je vais mettre dans cette partie certain projets que auquel j'ai participé durant ma formation ou de mon temps libre)
