@@ -10,7 +10,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/enzo-mancini-02b768252/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://www.instagram.com/enzo_mnc1/"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
-<a href="https://github.com/EnzoMancini/EnzoMancini/blob/main/README.md"><img src="https://img.shields.io/badge/enzomancini930@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+Mon mail :
+<img src="https://img.shields.io/badge/enzomancini930@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </p>
 
 
