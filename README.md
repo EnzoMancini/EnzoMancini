@@ -11,18 +11,7 @@
 <a href="https://www.linkedin.com/in/enzo-mancini-02b768252/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://www.instagram.com/enzo_mnc2405/"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a><br>
 Mon mail : enzomancini930@gmail.com
-</p>
-
-
-## Présentation
-
-Tout d'abord je m'appelle **Enzo Mancini**, je suis né le **15/05/2003** à **Toulouse**.
-<p align="center">
-<img src="images/toulouse_1.png" width="400">  <img src="images/toulouse_2.png" width="400"><br>
-  
-</p>
    
-
 
 ## Language, outils, méthode et système que j'utilise 🛠 &nbsp;
 
