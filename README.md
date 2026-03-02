@@ -1,6 +1,5 @@
 <h1 align="center">Bienvenu sur ma page GitHub <img src="images/GitHub-Mark-Light-32px.png"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-  ### Vous trouverez ici ma présentation ainsi que mon CV et quelques projets de mon portfolio !
   
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=EnzoMancini&style=flat-square&color=blue" alt=""></p>
